@@ -2,7 +2,7 @@
 
 A new Flutter project created with FlutLab - https://flutlab.io
 
-!screenshot[assets/imges/navtab.PNG]
+![screenshot](assets/imges/navtab.PNG)
 
 ## Getting Started
 
